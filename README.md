@@ -16,9 +16,9 @@ This project analyzes financial data from the IBM Anti-Money Laundering (AML) da
 
 -These accounts had deposit counts of 24,726 and 14,989 respectively.
 
--The total value of these deposits was massive, at approximately ** $22.1 billion and $12.5 billion **.
+-The total value of these deposits was massive, at approximately $22.1 billion and $12.5 billion.
 
--Both suspect accounts were linked to the ** same institution: Willows Thrift bank **.
+-Both suspect accounts were linked to the same institution: Willows Thrift bank.
 
 -![Suspicious Accounts Chart](https://github.com/Kshetrapal09/AML-Transaction-Analysis/blob/main/aml_chart%20(1).png)
 
