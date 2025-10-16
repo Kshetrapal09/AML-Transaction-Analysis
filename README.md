@@ -20,7 +20,7 @@ This project analyzes financial data from the IBM Anti-Money Laundering (AML) da
 
 -Both suspect accounts were linked to the ** same institution: Willows Thrift bank **.
 
-
+-![Suspicious Accounts Chart](https://github.com/Kshetrapal09/AML-Transaction-Analysis/blob/main/aml_chart%20(1).png)
 
 ## Tools Used
 -Python (Pandas)-for Analysis
